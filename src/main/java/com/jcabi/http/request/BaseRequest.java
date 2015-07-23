@@ -378,7 +378,7 @@ final class BaseRequest implements Request {
          */
         private final transient BaseRequest owner;
         /**
-         * Public ctor.
+         * Public  ctor.
          * @param req Request
          * @param uri The URI to start with
          */
